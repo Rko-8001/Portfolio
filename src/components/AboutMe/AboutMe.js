@@ -1,5 +1,6 @@
 import React from 'react';
 import me from "../Assests/Resources/me.png";
+import resume from "../Assests/Resources/Resume.pdf";
 function About() {
 
     return (
@@ -20,7 +21,8 @@ function About() {
                         </p>
                         <div className="flex justify-center mt-12">
                             <a
-                                href="./Assests/Resources/Resume.pdf"
+                                href={resume}
+                                download
                                 className="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-500 rounded text-lg">
                                 Download CV
                             </a>

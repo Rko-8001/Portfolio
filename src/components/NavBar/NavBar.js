@@ -19,7 +19,7 @@ function NavBar() {
                             Skills
                         </a>
                         <a href="#por" className="mr-5 hover:text-[#ff0000] ">
-                            My Team
+                            PoR
                         </a>
                     </nav>
                 </div>

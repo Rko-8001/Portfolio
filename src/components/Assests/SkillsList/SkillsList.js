@@ -5,8 +5,18 @@ export const skillsList = [
     "HTML/CSS",
     "Javascript",
     "React.Js",
+    "Next.js",
+    "TypeScript",
+    "Node.js",
+    "Express", 
+    "Flask",
+    "FastAPI",
+    "python",
+    "TailwindCSS",
+    "MaterialUI",
     "Bootstrap",
     "Lexx/Yacc",
     "Git",
     "Perl",
+
 ];

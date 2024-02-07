@@ -15,6 +15,9 @@ function NavBar() {
                         <a href="#projects" className="mr-5 hover:text-[#ff0000] ">
                             Projects
                         </a>
+                        <a href="#experience" className="mr-5 hover:text-[#ff0000] ">
+                            Experience
+                        </a>
                         <a href="#skills" className="mr-5 hover:text-[#ff0000]">
                             Skills
                         </a>
